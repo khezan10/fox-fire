@@ -1,1 +1,1 @@
-node foxfiresquad.js
+worker : node foxfire.js
