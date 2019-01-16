@@ -1,1 +1,1 @@
-worker : node foxfire.js
+worker: node foxfire.js
